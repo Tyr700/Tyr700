@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Com 1 ano de experiência em desenvolvimento de software, transformo ideias em soluções digitais que fazem a diferença.
 
-- 🔭 Atualmente trabalho em **[Sua Empresa/Projeto Atual]**
+- 🔭 Atualmente estou **[Procurando Oportunidades]**
 - 🌱 Estou aprendendo **[Node - PostgreSQL]**
 - 💡 Adoro resolver problemas complexos e criar soluções elegantes
 - 🎯 Foco em código limpo, performance e experiência do usuário
@@ -58,23 +58,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
   
 | 🎯 Projeto | 📝 Descrição | 🛠️ Tech Stack |
 |------------|--------------|---------------|
-| [![Project 1](https://img.shields.io/badge/🔥_Projeto_1-000?style=for-the-badge)](https://github.com/seu-usuario/projeto1) | Sistema completo de gerenciamento com dashboard interativo e API RESTful | `React` `Node.js` `MongoDB` |
-| [![Project 2](https://img.shields.io/badge/⚡_Projeto_2-000?style=for-the-badge)](https://github.com/seu-usuario/projeto2) | Aplicação mobile multiplataforma com autenticação e real-time updates | `React Native` `Firebase` `TypeScript` |
-| [![Project 3](https://img.shields.io/badge/🚀_Projeto_3-000?style=for-the-badge)](https://github.com/seu-usuario/projeto3) | E-commerce completo com sistema de pagamentos e gestão de estoque | `Next.js` `Stripe` `PostgreSQL` |
-| [![Project 4](https://img.shields.io/badge/💡_Projeto_4-000?style=for-the-badge)](https://github.com/seu-usuario/projeto4) | CLI tool para automação de deploy e gestão de infraestrutura | `Go` `Docker` `Kubernetes` |
+| [![Project 1](https://img.shields.io/badge/🔥_Projeto_1-000?style=for-the-badge)](https://github.com/Tyr700/springboot.site.perfume) | Site de Perfumes com sistema de carrinho e compras | `Java` `SpringBoot` `HTML/CSS` |
+| [![Project 2](https://img.shields.io/badge/⚡_Projeto_2-000?style=for-the-badge)](https://github.com/Tyr700/GrupoExtra) | Site de uma loja de sapatos com carrinho e usuário administrador | `java` `SpringBoot` `JavaScript` |
+| [![Project 3](https://img.shields.io/badge/🚀_Projeto_3-000?style=for-the-badge)](https://github.com/Outzz/TrabalhoIntegradorEletro) | Sistema de Estacionamento com Node e Arduino | `Node.Js` `Express` `Arduino` |
 
 </div>
 
-<details>
-<summary><b>🔍 Ver Mais Projetos</b></summary>
-<br>
 
-- 📊 **[Data Analytics Dashboard](https://github.com/seu-usuario/projeto5)** - Dashboard de análise de dados em tempo real
-- 🤖 **[AI Chatbot](https://github.com/seu-usuario/projeto6)** - Chatbot inteligente com processamento de linguagem natural
-- 🎮 **[Game Engine](https://github.com/seu-usuario/projeto7)** - Engine de jogos 2D desenvolvida em C++
-- 📱 **[Social App](https://github.com/seu-usuario/projeto8)** - Rede social com funcionalidades de chat e compartilhamento
-
-</details>
 
 ## 📊 GitHub Stats
 
