@@ -108,11 +108,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tyr700/Tyr700/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tyr700/Tyr700/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+![snake gif](https://github.com/Tyr700/Tyr700/blob/output/github-snake-dark.svg)
 
 ---
 
