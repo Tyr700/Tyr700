@@ -1,4 +1,4 @@
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]!&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[Tiago%20Arruda]!&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 <div align="center">
   
@@ -12,13 +12,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Com [X] anos de experiência em desenvolvimento de software, transformo ideias em soluções digitais que fazem a diferença.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Com 1 ano de experiência em desenvolvimento de software, transformo ideias em soluções digitais que fazem a diferença.
 
 - 🔭 Atualmente trabalho em **[Sua Empresa/Projeto Atual]**
 - 🌱 Estou aprendendo **[Node - PostgreSQL]**
 - 💡 Adoro resolver problemas complexos e criar soluções elegantes
 - 🎯 Foco em código limpo, performance e experiência do usuário
-- ⚡ Fun fact: **[Gosto de aprender e testar coisas novas]**
+- ⚡ Fun fact: Gosto de aprender e testar coisas novas
 
 <br clear="right"/>
 
@@ -117,7 +117,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ### 🐍 Contribution Snake
   
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Tyr700/Tyr700/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
