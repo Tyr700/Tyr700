@@ -107,9 +107,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-  
-![Snake animation](https://github.com/Tyr700/Tyr700/blob/main/.github/workflows/snake.yml)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tyr700/Tyr700/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tyr700/Tyr700/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ---
