@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia 00:00 UTC
+    - cron: "0 0 * * *" # roda todo dia às 00:00 UTC
   workflow_dispatch:
   push:
     branches:
@@ -24,13 +24,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        run: |
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "Generate Snake"
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Tyr700/Tyr700.git output
+      - name: List generated files
+        run: ls -R dist
+
+      - name: Deploy to GitHub Pages (branch output)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
