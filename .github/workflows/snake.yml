@@ -1,35 +1,42 @@
-name: Generate Snake
+name: Gerar animação da cobrinha
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia às 00:00 UTC
+    # Roda a cada 12 horas. Você pode mudar se quiser.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Adicionando a permissão para o GITHUB_TOKEN poder escrever no repositório
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
         with:
-          github_user_name: Tyr700
+          fetch-depth: 0
+      
+      - uses: Platypus-Code/action-autodelete-old-branch@v1
+        with:
+          branch: output
+          days: 3650
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: Platane/snk/svg-only@v3
+        id: snake-svg
+        with:
+          github_user_name: Tyr700 # Seu nome de usuário
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: List generated files
-        run: ls -R dist
-
-      - name: Deploy to GitHub Pages (branch output)
-        uses: peaceiris/actions-gh-pages@v3
+          
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          target_branch: output # O branch onde a imagem será salva
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
