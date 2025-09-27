@@ -85,7 +85,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tyr700&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ## 📫 Entre em Contato
