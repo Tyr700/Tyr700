@@ -107,7 +107,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ### 🐍 Contribution Snake
   
-![Snake animation](https://github.com/Tyr700/Tyr700/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Tyr700/Tyr700/blob/main/.github/workflows/snake.yml)
 
 </div>
 
