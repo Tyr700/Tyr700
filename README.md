@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tyr700&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile views" />
   
 </div>
 
